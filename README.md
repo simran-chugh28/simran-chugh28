@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simran-chugh28
 - 🌱 I’m currently pursuing a Master's in Data Science at the University of Europe for Applied Sciences in Potsdam, Germany.
-- - 👀 I’m interested in coding, mathematics—especially calculus and statistics—and visualizing data to uncover insights.
+- 👀 I’m interested in coding, mathematics—especially calculus and statistics—and visualizing data to uncover insights.
 - 📫 How to reach me ...
 
 <!---
